@@ -1,0 +1,9 @@
+# Copy this file over to .properties and set the values to your configuration.
+[SECTION_HEADER]
+api=AIzaSyCvOjE24t9SieoZvDM9liAbxsjaYiFvEyk
+host=localhost
+port=3838
+# redis connection information
+host_r=localhost
+port_r=6379
+password_r='foobared'
